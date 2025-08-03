@@ -378,11 +378,3 @@ After completing this setup:
 2. Run test scripts to ensure connectivity
 3. Proceed to Phase 2: Data Collection Pipeline development
 4. Begin implementing `job_collector.py` Lambda function
-
-## Support
-
-For issues during setup:
-1. Check AWS documentation for service-specific problems
-2. Refer to Neon documentation for database issues  
-3. Consult Python packaging guides for dependency problems
-4. Review project CLAUDE.md for additional context
